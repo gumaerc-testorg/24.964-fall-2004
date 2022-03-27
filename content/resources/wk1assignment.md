@@ -14,6 +14,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7a6c9b94-7419-dcf7-8fcd-5a6f93517865
 resourcetype: Document
 title: wk1assignment.pdf
 uid: c4a889d9-9ceb-9b3b-a77c-a0c5298faa58

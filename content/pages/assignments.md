@@ -63,11 +63,11 @@ _Related Files
   
 _Baayen, Piepenbrock, and van Rijn. "The CELEX Lexical Data Base on CD-ROM." _Linguistic Data Consortium._ Philadelphia: PA, 1993.  
   
-Exp1-High.txt ([TXT](/courses/linguistics-and-philosophy/24-964-topics-in-phonology-fall-2004/assignments/Exp1High.txt))  
-Exp1-Low.txt ([TXT](/courses/linguistics-and-philosophy/24-964-topics-in-phonology-fall-2004/assignments/Exp1Low.txt))  
-Exp3-High.txt ([TXT](/courses/linguistics-and-philosophy/24-964-topics-in-phonology-fall-2004/assignments/Exp3High.txt))  
-Exp3-Low.txt ([TXT](/courses/linguistics-and-philosophy/24-964-topics-in-phonology-fall-2004/assignments/Exp3Low.txt))  
-AlbrightHayes.txt ([TXT](/courses/linguistics-and-philosophy/24-964-topics-in-phonology-fall-2004/study-materials/AlbrightHayes.txt))
+Exp1-High.txt ([TXT]({{< baseurl >}}/resources/exp1high))  
+Exp1-Low.txt ([TXT]({{< baseurl >}}/resources/exp1low))  
+Exp3-High.txt ([TXT]({{< baseurl >}}/resources/exp3high))  
+Exp3-Low.txt ([TXT]({{< baseurl >}}/resources/exp3low))  
+AlbrightHayes.txt ([TXT]({{< baseurl >}}/resources/albrighthayes))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -83,7 +83,7 @@ Phonotactic Probability (cont.) ([PDF]({{< baseurl >}}/resources/wk4assignment))
   
 _Related Files  
   
-_AlbrightHayes.txt ([TXT](/courses/linguistics-and-philosophy/24-964-topics-in-phonology-fall-2004/study-materials/AlbrightHayes.txt))
+_AlbrightHayes.txt ([TXT]({{< baseurl >}}/resources/albrighthayes))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -111,8 +111,8 @@ Understanding Recursive Constraint Demotion ([PDF]({{< baseurl >}}/resources/wk6
   
 _Related Files  
   
-_RCD.pl ([PL](/courses/linguistics-and-philosophy/24-964-topics-in-phonology-fall-2004/study-materials/RCD.pl))  
-RCD-Readme.txt ([TXT](/courses/linguistics-and-philosophy/24-964-topics-in-phonology-fall-2004/study-materials/RCDReadme.txt))
+_RCD.pl ([PL]({{< baseurl >}}/resources/rcd))  
+RCD-Readme.txt ([TXT]({{< baseurl >}}/resources/rcdreadme))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -128,8 +128,8 @@ The _azba_ Language ([PDF]({{< baseurl >}}/resources/wk7assignment))
   
 _Related Files  
   
-_LFCD.pl ([PL](/courses/linguistics-and-philosophy/24-964-topics-in-phonology-fall-2004/study-materials/LFCD.pl))  
-RCD.pl ([PL](/courses/linguistics-and-philosophy/24-964-topics-in-phonology-fall-2004/study-materials/RCD.pl))
+_LFCD.pl ([PL]({{< baseurl >}}/resources/lfcd))  
+RCD.pl ([PL]({{< baseurl >}}/resources/rcd))
 {{< tdclose >}}
 
 {{< trclose >}}

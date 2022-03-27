@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: f600f19d-ae22-b3f4-9437-c8db79bbe880
 resourcetype: Other
 title: perlscripts5.zip
 uid: 8d842972-65c5-7034-a03c-30341f96cac3

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 93fb1201-3762-45b0-2902-15bb8946d465
 resourcetype: Document
 title: wk7overheads.pdf
 uid: cafdc4c1-8cf1-84f0-2f1d-df27abbee69e

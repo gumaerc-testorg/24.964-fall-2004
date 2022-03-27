@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: f600f19d-ae22-b3f4-9437-c8db79bbe880
 resourcetype: Document
 title: wk5handout.pdf
 uid: 168fbde9-fdc8-5a00-f8db-a58f070fee50
