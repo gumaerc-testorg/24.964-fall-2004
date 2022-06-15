@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file.
-file: /media/courses/24-964-topics-in-phonology-fall-2004/6a002c2b865e930398a25350e5de66e1_AlbrightHayesPredictions.txt
+file: /courses/24-964-topics-in-phonology-fall-2004/6a002c2b865e930398a25350e5de66e1_AlbrightHayesPredictions.txt
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Other
 title: AlbrightHayesPredictions.txt
 uid: 6a002c2b-865e-9303-98a2-5350e5de66e1
 ---
+Supporting file.
+

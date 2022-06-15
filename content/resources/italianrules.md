@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file.
-file: /media/courses/24-964-topics-in-phonology-fall-2004/822eb9952feb7bcd239ccef6b684bd72_ItalianRules.txt
+file: /courses/24-964-topics-in-phonology-fall-2004/822eb9952feb7bcd239ccef6b684bd72_ItalianRules.txt
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Other
 title: ItalianRules.txt
 uid: 822eb995-2feb-7bcd-239c-cef6b684bd72
 ---
+Supporting file.
+

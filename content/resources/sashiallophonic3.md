@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for Study Materials.
-file: /media/courses/24-964-topics-in-phonology-fall-2004/1fa9c61034688dfc59e515b0c6cab75e_SaShiAllophonic3.constraints
+file: /courses/24-964-topics-in-phonology-fall-2004/1fa9c61034688dfc59e515b0c6cab75e_SaShiAllophonic3.constraints
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Other
 title: SaShiAllophonic3.constraints
 uid: 1fa9c610-3468-8dfc-59e5-15b0c6cab75e
 ---
+Supporting file for Study Materials.
+

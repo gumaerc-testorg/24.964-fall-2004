@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file.
-file: /media/courses/24-964-topics-in-phonology-fall-2004/e3a615997bdcebb3bfd24c742121515f_Exp3High.txt
+file: /courses/24-964-topics-in-phonology-fall-2004/e3a615997bdcebb3bfd24c742121515f_Exp3High.txt
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: Exp3High.txt
 uid: e3a61599-7bdc-ebb3-bfd2-4c742121515f
 ---
+Supporting file.
+

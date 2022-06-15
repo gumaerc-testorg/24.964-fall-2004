@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Code file.
-file: /media/courses/24-964-topics-in-phonology-fall-2004/f2a62ffe05e948cddc2582365951a4a2_LFCD.pl
+file: /courses/24-964-topics-in-phonology-fall-2004/f2a62ffe05e948cddc2582365951a4a2_LFCD.pl
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Other
 title: LFCD.pl
 uid: f2a62ffe-05e9-48cd-dc25-82365951a4a2
 ---
+Code file.
+

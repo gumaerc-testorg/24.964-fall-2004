@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file.
-file: /media/courses/24-964-topics-in-phonology-fall-2004/32cd33164a40a10567a9b50c9752df75_ItalianConverted.txt
+file: /courses/24-964-topics-in-phonology-fall-2004/32cd33164a40a10567a9b50c9752df75_ItalianConverted.txt
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Other
 title: ItalianConverted.txt
 uid: 32cd3316-4a40-a105-67a9-b50c9752df75
 ---
+Supporting file.
+

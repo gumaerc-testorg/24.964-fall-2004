@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file.
-file: /media/courses/24-964-topics-in-phonology-fall-2004/51ca843bbaf70f77b16a3fc75bb29ed9_Exp1Low.txt
+file: /courses/24-964-topics-in-phonology-fall-2004/51ca843bbaf70f77b16a3fc75bb29ed9_Exp1Low.txt
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: Exp1Low.txt
 uid: 51ca843b-baf7-0f77-b16a-3fc75bb29ed9
 ---
+Supporting file.
+

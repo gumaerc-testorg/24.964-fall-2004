@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Code file.
-file: /media/courses/24-964-topics-in-phonology-fall-2004/e2abe84e119a008410d94a858cdee3a2_GetWordFrequencies.pl
+file: /courses/24-964-topics-in-phonology-fall-2004/e2abe84e119a008410d94a858cdee3a2_GetWordFrequencies.pl
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Other
 title: GetWordFrequencies.pl
 uid: e2abe84e-119a-0084-10d9-4a858cdee3a2
 ---
+Code file.
+

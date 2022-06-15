@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Code file.
-file: /media/courses/24-964-topics-in-phonology-fall-2004/c3c10df225e573b31e2b5c9c9a3ef951_checkmath.pl
+file: /courses/24-964-topics-in-phonology-fall-2004/c3c10df225e573b31e2b5c9c9a3ef951_checkmath.pl
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Other
 title: checkmath.pl
 uid: c3c10df2-25e5-73b3-1e2b-5c9c9a3ef951
 ---
+Code file.
+

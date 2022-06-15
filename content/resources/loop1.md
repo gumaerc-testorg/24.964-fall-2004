@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Code file.
-file: /media/courses/24-964-topics-in-phonology-fall-2004/240cc85a0cfa372bdb11bb5595383227_loop1.pl
+file: /courses/24-964-topics-in-phonology-fall-2004/240cc85a0cfa372bdb11bb5595383227_loop1.pl
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Other
 title: loop1.pl
 uid: 240cc85a-0cfa-372b-db11-bb5595383227
 ---
+Code file.
+

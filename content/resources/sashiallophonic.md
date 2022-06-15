@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for Study Materials.
-file: /media/courses/24-964-topics-in-phonology-fall-2004/53eb5d55688e6edb265acb2e005f8113_SaShiAllophonic.txt
+file: /courses/24-964-topics-in-phonology-fall-2004/53eb5d55688e6edb265acb2e005f8113_SaShiAllophonic.txt
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Other
 title: SaShiAllophonic.txt
 uid: 53eb5d55-688e-6edb-265a-cb2e005f8113
 ---
+Supporting file for Study Materials.
+

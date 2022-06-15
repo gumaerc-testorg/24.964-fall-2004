@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for Study Materials.
-file: /media/courses/24-964-topics-in-phonology-fall-2004/0f5f1e27d9ef690501c1905c31d0062b_READMECelexWordsInTranscription.txt
+file: /courses/24-964-topics-in-phonology-fall-2004/0f5f1e27d9ef690501c1905c31d0062b_READMECelexWordsInTranscription.txt
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Other
 title: READMECelexWordsInTranscription.txt
 uid: 0f5f1e27-d9ef-6905-01c1-905c31d0062b
 ---
+Supporting file for Study Materials.
+

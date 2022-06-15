@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Code file.
-file: /media/courses/24-964-topics-in-phonology-fall-2004/f05118386a9aed94594d6020e5a7d7b9_RCD.pl
+file: /courses/24-964-topics-in-phonology-fall-2004/f05118386a9aed94594d6020e5a7d7b9_RCD.pl
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Other
 title: RCD.pl
 uid: f0511838-6a9a-ed94-594d-6020e5a7d7b9
 ---
+Code file.
+

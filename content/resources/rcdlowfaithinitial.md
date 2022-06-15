@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Code file.
-file: /media/courses/24-964-topics-in-phonology-fall-2004/8e3ce675959956299f1b6d627d2827fc_RCDLowFaithInitial.pl
+file: /courses/24-964-topics-in-phonology-fall-2004/8e3ce675959956299f1b6d627d2827fc_RCDLowFaithInitial.pl
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Other
 title: RCDLowFaithInitial.pl
 uid: 8e3ce675-9599-5629-9f1b-6d627d2827fc
 ---
+Code file.
+

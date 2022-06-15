@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Code file.
-file: /media/courses/24-964-topics-in-phonology-fall-2004/77eb44c28df34a32d426cc0abcc1814f_italian3.pl
+file: /courses/24-964-topics-in-phonology-fall-2004/77eb44c28df34a32d426cc0abcc1814f_italian3.pl
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Other
 title: italian3.pl
 uid: 77eb44c2-8df3-4a32-d426-cc0abcc1814f
 ---
+Code file.
+

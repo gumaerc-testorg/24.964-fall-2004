@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file.
-file: /media/courses/24-964-topics-in-phonology-fall-2004/afde4a1d7f45d599a3ea8ca2a519de52_Exp3LowPredictions.txt
+file: /courses/24-964-topics-in-phonology-fall-2004/afde4a1d7f45d599a3ea8ca2a519de52_Exp3LowPredictions.txt
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Other
 title: Exp3LowPredictions.txt
 uid: afde4a1d-7f45-d599-a3ea-8ca2a519de52
 ---
+Supporting file.
+

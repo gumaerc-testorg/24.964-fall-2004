@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Code file.
-file: /media/courses/24-964-topics-in-phonology-fall-2004/e52c5b58ae2f7bd43e130ad0d46ad9d3_CooccurrenceCharts.pl
+file: /courses/24-964-topics-in-phonology-fall-2004/e52c5b58ae2f7bd43e130ad0d46ad9d3_CooccurrenceCharts.pl
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Other
 title: CooccurrenceCharts.pl
 uid: e52c5b58-ae2f-7bd4-3e13-0ad0d46ad9d3
 ---
+Code file.
+

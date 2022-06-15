@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file.
-file: /media/courses/24-964-topics-in-phonology-fall-2004/4183c863dc8ea103e8d5eba8e4b9feff_Exp1High.txt
+file: /courses/24-964-topics-in-phonology-fall-2004/4183c863dc8ea103e8d5eba8e4b9feff_Exp1High.txt
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Other
 title: Exp1High.txt
 uid: 4183c863-dc8e-a103-e8d5-eba8e4b9feff
 ---
+Supporting file.
+

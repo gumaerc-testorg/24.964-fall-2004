@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Code file.
-file: /media/courses/24-964-topics-in-phonology-fall-2004/402a7d5c16ab4eaca9c88aae1ef59684_hepburn.pl
+file: /courses/24-964-topics-in-phonology-fall-2004/402a7d5c16ab4eaca9c88aae1ef59684_hepburn.pl
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Other
 title: hepburn.pl
 uid: 402a7d5c-16ab-4eac-a9c8-8aae1ef59684
 ---
+Code file.
+

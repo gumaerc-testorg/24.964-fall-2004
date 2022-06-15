@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Code file.
-file: /media/courses/24-964-topics-in-phonology-fall-2004/4163a92b6a436d017ca41cdc20d13fde_hello5.pl
+file: /courses/24-964-topics-in-phonology-fall-2004/4163a92b6a436d017ca41cdc20d13fde_hello5.pl
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Other
 title: hello5.pl
 uid: 4163a92b-6a43-6d01-7ca4-1cdc20d13fde
 ---
+Code file.
+

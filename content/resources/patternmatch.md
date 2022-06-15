@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Code file.
-file: /media/courses/24-964-topics-in-phonology-fall-2004/16fecee25504deea82a00bddbbd26b65_patternmatch.pl
+file: /courses/24-964-topics-in-phonology-fall-2004/16fecee25504deea82a00bddbbd26b65_patternmatch.pl
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Other
 title: patternmatch.pl
 uid: 16fecee2-5504-deea-82a0-0bddbbd26b65
 ---
+Code file.
+

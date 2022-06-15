@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for Study Materials.
-file: /media/courses/24-964-topics-in-phonology-fall-2004/b2d85f9956f84df46046a5228524fb08_sample.txt
+file: /courses/24-964-topics-in-phonology-fall-2004/b2d85f9956f84df46046a5228524fb08_sample.txt
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Other
 title: sample.txt
 uid: b2d85f99-56f8-4df4-6046-a5228524fb08
 ---
+Supporting file for Study Materials.
+

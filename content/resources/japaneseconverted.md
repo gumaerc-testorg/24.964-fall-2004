@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file.
-file: /media/courses/24-964-topics-in-phonology-fall-2004/a98c31fc71dfe7c629de592130af68f1_JapaneseConverted.txt
+file: /courses/24-964-topics-in-phonology-fall-2004/a98c31fc71dfe7c629de592130af68f1_JapaneseConverted.txt
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Other
 title: JapaneseConverted.txt
 uid: a98c31fc-71df-e7c6-29de-592130af68f1
 ---
+Supporting file.
+

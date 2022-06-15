@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file.
-file: /media/courses/24-964-topics-in-phonology-fall-2004/50b886028004357925e86e58a368f3d3_JapaneseRules.txt
+file: /courses/24-964-topics-in-phonology-fall-2004/50b886028004357925e86e58a368f3d3_JapaneseRules.txt
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Other
 title: JapaneseRules.txt
 uid: 50b88602-8004-3579-25e8-6e58a368f3d3
 ---
+Supporting file.
+
