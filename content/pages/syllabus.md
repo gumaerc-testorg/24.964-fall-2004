@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: 'This section provides information about: Course Description, Course
+  Requirements, Written Assignments, Presentations on Readings and Discussion Questions,
+  and Final (Mini-) Project.'
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 96023a31-66f9-8f9c-c98b-eccde2942722
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
