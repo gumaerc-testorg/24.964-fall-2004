@@ -5,6 +5,7 @@ file: /courses/24-964-topics-in-phonology-fall-2004/69885c842a4df5ac31bd4092a296
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Detailed summary of topics covered in lecture.
-

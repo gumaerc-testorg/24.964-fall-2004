@@ -4,6 +4,7 @@ description: Supporting file.
 file: /courses/24-964-topics-in-phonology-fall-2004/822eb9952feb7bcd239ccef6b684bd72_ItalianRules.txt
 file_type: text/plain
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: ItalianRules.txt
 uid: 822eb995-2feb-7bcd-239c-cef6b684bd72
 ---
 Supporting file.
-

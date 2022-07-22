@@ -4,6 +4,7 @@ description: Code file.
 file: /courses/24-964-topics-in-phonology-fall-2004/e9a3aeab8c219193460d590037ac29c8_cv.pl
 file_type: text/plain
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: cv.pl
 uid: e9a3aeab-8c21-9193-460d-590037ac29c8
 ---
 Code file.
-

@@ -4,6 +4,7 @@ description: Supporting file.
 file: /courses/24-964-topics-in-phonology-fall-2004/a98c31fc71dfe7c629de592130af68f1_JapaneseConverted.txt
 file_type: text/plain
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: JapaneseConverted.txt
 uid: a98c31fc-71df-e7c6-29de-592130af68f1
 ---
 Supporting file.
-

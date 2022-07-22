@@ -4,6 +4,7 @@ description: 'This resource includes: coding.'
 file: /courses/24-964-topics-in-phonology-fall-2004/cc77cf8f577eccd616545cfafdf0d239_wk3handout.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource includes: coding.
-

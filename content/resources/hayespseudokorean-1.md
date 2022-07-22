@@ -4,6 +4,7 @@ description: Supporting file.
 file: /courses/24-964-topics-in-phonology-fall-2004/80ee4a12e99e3a225b7a78ee2673c433_HayesPseudoKorean.constraints
 file_type: text/plain
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: HayesPseudoKorean.constraints
 uid: 80ee4a12-e99e-3a22-5b7a-78ee2673c433
 ---
 Supporting file.
-

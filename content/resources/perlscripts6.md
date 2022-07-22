@@ -4,6 +4,7 @@ description: ''
 file: /courses/24-964-topics-in-phonology-fall-2004/4158c3f7797d972c26f232c7343cd630_perlscripts6.zip
 file_type: application/zip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection

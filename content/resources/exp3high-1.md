@@ -4,6 +4,7 @@ description: Supporting file.
 file: /courses/24-964-topics-in-phonology-fall-2004/a825b10728dc8b7bcd4336cfb85d1ef4_Exp3High.txt
 file_type: text/plain
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: Exp3High.txt
 uid: a825b107-28dc-8b7b-cd43-36cfb85d1ef4
 ---
 Supporting file.
-

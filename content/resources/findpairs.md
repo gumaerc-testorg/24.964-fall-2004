@@ -4,6 +4,7 @@ description: Code file.
 file: /courses/24-964-topics-in-phonology-fall-2004/bff231f4b1ca428329d783513e63ebc1_findpairs.pl
 file_type: text/plain
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: findpairs.pl
 uid: bff231f4-b1ca-4283-29d7-83513e63ebc1
 ---
 Code file.
-

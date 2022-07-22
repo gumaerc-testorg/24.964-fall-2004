@@ -4,6 +4,7 @@ description: Code file.
 file: /courses/24-964-topics-in-phonology-fall-2004/912b725f1388141833e2822e3350c09e_VitevitchLuce.pl
 file_type: text/plain
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: VitevitchLuce.pl
 uid: 912b725f-1388-1418-33e2-822e3350c09e
 ---
 Code file.
-

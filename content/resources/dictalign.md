@@ -4,6 +4,7 @@ description: Supporting file.
 file: /courses/24-964-topics-in-phonology-fall-2004/24cb53dd8fda4cc60876e4e7bb4aeb06_dictAlign.txt
 file_type: text/plain
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: dictAlign.txt
 uid: 24cb53dd-8fda-4cc6-0876-e4e7bb4aeb06
 ---
 Supporting file.
-

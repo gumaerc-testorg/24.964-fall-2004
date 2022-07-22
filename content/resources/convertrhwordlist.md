@@ -4,6 +4,7 @@ description: Code file.
 file: /courses/24-964-topics-in-phonology-fall-2004/242f31b90b31ac0cd192602afac90e64_ConvertRHWordlist.pl
 file_type: text/plain
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: ConvertRHWordlist.pl
 uid: 242f31b9-0b31-ac0c-d192-602afac90e64
 ---
 Code file.
-

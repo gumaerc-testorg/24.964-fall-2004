@@ -4,6 +4,7 @@ description: Statistical Models.
 file: /courses/24-964-topics-in-phonology-fall-2004/168fbde9fdc85a00f8dba58f070fee50_wk5handout.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Statistical Models.
-

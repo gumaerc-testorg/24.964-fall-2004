@@ -14,6 +14,7 @@ file: /courses/24-964-topics-in-phonology-fall-2004/71662af72a418a959ff6d11d1dd0
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -29,4 +30,3 @@ video_metadata:
 The Jusczyk, Luce, and Charles ?Luce study employed sets of monosyllables which were claimed to have high and low phonotactic probabilities in English. The task is to check their claim, by computing the
 phonotactic probability of their test items. There is a ?le called CelexWordsInTranscription.txt, which
 contains a list of English words. The task is to write a program that reads in this file, computes the probabilities of their items, by the criteria used in that study.(That is, by the "positional" probabilities).
-

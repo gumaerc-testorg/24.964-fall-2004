@@ -4,6 +4,7 @@ description: Code file.
 file: /courses/24-964-topics-in-phonology-fall-2004/95100464997189ac46606ed751c024c1_hepburn4.pl
 file_type: text/plain
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: hepburn4.pl
 uid: 95100464-9971-89ac-4660-6ed751c024c1
 ---
 Code file.
-

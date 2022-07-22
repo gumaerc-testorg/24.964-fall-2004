@@ -4,6 +4,7 @@ description: Code file.
 file: /courses/24-964-topics-in-phonology-fall-2004/7b8f9f45436292dbe2daa0b202069247_italian.pl
 file_type: text/plain
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: italian.pl
 uid: 7b8f9f45-4362-92db-e2da-a0b202069247
 ---
 Code file.
-
