@@ -86,7 +86,7 @@ Eddington (2003).
 {{< tdclose >}}{{< tdopen >}}
 Learning in OT (cont.) - Reasoning about Rankings
 {{< tdclose >}}{{< tdopen >}}
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/probabilistic-linguistics) Pierrehumbert, J. "Probabilistic Phonology: Discrimation and Robustness." In [*Probabilistic Linguistics*](https://mitpress.mit.edu/books/probabilistic-linguistics). Edited by R. Bod, J. Hay, and S. Jannedy. Cambridge, MA: MIT Press, 2003. ISBN: 0262025361.
+{{% resource_link "04acd63d-a6a6-4da8-889e-22006d77fab3" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Pierrehumbert, J. "Probabilistic Phonology: Discrimation and Robustness." In {{% resource_link "04acd63d-a6a6-4da8-889e-22006d77fab3" "*Probabilistic Linguistics*" %}}. Edited by R. Bod, J. Hay, and S. Jannedy. Cambridge, MA: MIT Press, 2003. ISBN: 0262025361.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
@@ -119,7 +119,7 @@ Boersma, Paul. "A Stochastic OT Account of Paralinguistic Tasks such as Grammati
 
 Burke, Sean M., and Sheri Wells-Jensen. "Braille Contractions and Regular Expressions." *The Perl Journal* . 1999.
 
-Everett, Dan, and Iris Berent. "The Comparative Optimality of Hebrew Roots: An Experimental Approach to Violable Identity Constraints." ROA-235, [*Rutgers Optimality Archive*](http://roa.rutgers.edu/).
+Everett, Dan, and Iris Berent. "The Comparative Optimality of Hebrew Roots: An Experimental Approach to Violable Identity Constraints." ROA-235, {{% resource_link "f4939a88-bf07-412e-abfe-5462b1c2779a" "*Rutgers Optimality Archive*" %}}.
 
 Gildea, D., and D. Jurafsky. "Learning Bias and Phonological-rule Induction." *Computational Linguistics* 22, no. 4 (1996): 497–530.
 
@@ -141,9 +141,9 @@ Konstantopoulos, S. "Learning Phonotactics using ILP." *Special Issue of the WEB
 
 Kruskal, Joseph. "An Overview of Sequence Comparison." In *Time Warps, String Edits, and Macromolecules*. Edited by David Sankoff and Kruskal. Stanford: CSLI, 1999. pp. 1-44. ISBN: 1575862174.
 
-Maslova, Elena. "Stochastic OT as a Model of Constraint Interaction." ROA-694, [*Rutgers Optimality Archive*](http://roa.rutgers.edu/). \[Manuscript\]
+Maslova, Elena. "Stochastic OT as a Model of Constraint Interaction." ROA-694, {{% resource_link "f4939a88-bf07-412e-abfe-5462b1c2779a" "*Rutgers Optimality Archive*" %}}. \[Manuscript\]
 
-McCarthy, John. "Taking a Free Ride in Morphophonemic Learning." ROA-683, [*Rutgers Optimality Archive*](http://roa.rutgers.edu/).
+McCarthy, John. "Taking a Free Ride in Morphophonemic Learning." ROA-683, {{% resource_link "f4939a88-bf07-412e-abfe-5462b1c2779a" "*Rutgers Optimality Archive*" %}}.
 
 Nerbonne, J., and S. Konstantopoulos. "Phonotactics in Inductive Logic Programming." In *Intelligent Information Processing and Web Mining: Proceedings of the International IIS: IIPWM’04 Conference held in Zakopane, Poland, May 17-20, 2004. Advances in Soft Computing*. Edited by A. Mieczyslaw, S. T. Wierzchon, and K. Trojanowski. Berlin: Springer, 2004, pp. 493–502.
 
