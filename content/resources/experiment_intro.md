@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/24-964-topics-in-phonology-fall-2004/a6504977bdb29bf6bf95866230782b1e_experiment_intro.pdf
+file_size: 30377
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,7 @@
 content_type: resource
 description: Detailed summary of topics covered in lecture.
 file: /courses/24-964-topics-in-phonology-fall-2004/abfb50af61b7edba0a4825302ce57b9e_wk5overheads.pdf
+file_size: 337105
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

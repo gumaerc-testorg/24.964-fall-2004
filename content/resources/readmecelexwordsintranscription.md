@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting file for Study Materials.
 file: /courses/24-964-topics-in-phonology-fall-2004/0f5f1e27d9ef690501c1905c31d0062b_READMECelexWordsInTranscription.txt
+file_size: 803
 file_type: text/plain
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

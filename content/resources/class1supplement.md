@@ -2,6 +2,7 @@
 content_type: resource
 description: Supplementary Notes.
 file: /courses/24-964-topics-in-phonology-fall-2004/0f9f5646d997970f4ad86eeb559f8fe0_class1supplement.pdf
+file_size: 152704
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
