@@ -2,6 +2,7 @@
 content_type: resource
 description: Code file.
 file: /courses/24-964-topics-in-phonology-fall-2004/efecd90ad5571a5527a30c82d8756672_cvcv.pl
+file_size: 501
 file_type: application/octet-stream
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

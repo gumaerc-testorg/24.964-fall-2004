@@ -2,6 +2,7 @@
 content_type: resource
 description: Continuation of the third homework assignment.
 file: /courses/24-964-topics-in-phonology-fall-2004/040be562ff27170aef244fb17cf5deca_wk4assignment.pdf
+file_size: 55764
 file_type: application/pdf
 learning_resource_types:
 - Assignments

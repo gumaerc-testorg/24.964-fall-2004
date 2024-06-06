@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/24-964-topics-in-phonology-fall-2004/7f795cf5a236e7557ee443dc84bfdf37_perlscripts4.zip
+file_size: 80999
 file_type: application/zip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

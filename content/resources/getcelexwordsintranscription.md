@@ -2,6 +2,7 @@
 content_type: resource
 description: Code file.
 file: /courses/24-964-topics-in-phonology-fall-2004/5caf8a4dd09ddca72e97949bf6ceee37_GetCelexWordsInTranscription.pl
+file_size: 760
 file_type: text/plain
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

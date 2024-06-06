@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting file.
 file: /courses/24-964-topics-in-phonology-fall-2004/6a002c2b865e930398a25350e5de66e1_AlbrightHayesPredictions.txt
+file_size: 2262
 file_type: text/plain
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

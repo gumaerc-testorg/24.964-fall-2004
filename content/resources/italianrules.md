@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting file.
 file: /courses/24-964-topics-in-phonology-fall-2004/822eb9952feb7bcd239ccef6b684bd72_ItalianRules.txt
+file_size: 241
 file_type: text/plain
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
