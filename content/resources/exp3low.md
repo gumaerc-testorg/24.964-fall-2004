@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting file.
 file: /courses/24-964-topics-in-phonology-fall-2004/fc62b030d9199c76c4bc4930b66cecf8_Exp3Low.txt
+file_size: 606
 file_type: text/plain
 learning_resource_types:
 - Assignments

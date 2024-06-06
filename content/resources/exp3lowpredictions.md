@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting file.
 file: /courses/24-964-topics-in-phonology-fall-2004/afde4a1d7f45d599a3ea8ca2a519de52_Exp3LowPredictions.txt
+file_size: 2908
 file_type: text/plain
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

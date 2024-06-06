@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting file for Study Materials.
 file: /courses/24-964-topics-in-phonology-fall-2004/113dcf8f1e8a4eae3d08e5f8edd01f99_RHExpectedCooccurrences.txt
+file_size: 20419
 file_type: text/plain
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,7 @@
 content_type: resource
 description: Navigating through the command files.
 file: /courses/24-964-topics-in-phonology-fall-2004/3c69fdb16a3c29b56c9400b6ea7e79d0_wk1handout.pdf
+file_size: 150819
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
