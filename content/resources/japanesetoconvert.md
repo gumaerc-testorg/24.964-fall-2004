@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/24-964-topics-in-phonology-fall-2004/9598b99b8f25e941611b7fc84ece25fe_JapaneseToConvert.txt
+file: /ol-ocw-studio-app/courses/24-964-topics-in-phonology-fall-2004/9598b99b8f25e941611b7fc84ece25fe_JapaneseToConvert.txt
 file_size: 74
 file_type: text/plain
 learning_resource_types: []

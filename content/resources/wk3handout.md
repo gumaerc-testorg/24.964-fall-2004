@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource includes: coding.'
-file: /courses/24-964-topics-in-phonology-fall-2004/cc77cf8f577eccd616545cfafdf0d239_wk3handout.pdf
+file: /ol-ocw-studio-app/courses/24-964-topics-in-phonology-fall-2004/cc77cf8f577eccd616545cfafdf0d239_wk3handout.pdf
 file_size: 120928
 file_type: application/pdf
 learning_resource_types: []
