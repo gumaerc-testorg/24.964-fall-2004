@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for Study Materials.
-file: /courses/24-964-topics-in-phonology-fall-2004/d1bb3f1c44f6f42f6a9d6e5806ff7517_RHOnsetCodaDistributions.txt
+file: /ol-ocw-studio-app/courses/24-964-topics-in-phonology-fall-2004/d1bb3f1c44f6f42f6a9d6e5806ff7517_RHOnsetCodaDistributions.txt
 file_size: 3913
 file_type: text/plain
 learning_resource_types: []

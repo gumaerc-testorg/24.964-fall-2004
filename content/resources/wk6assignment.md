@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment.
-file: /courses/24-964-topics-in-phonology-fall-2004/3a23fdc4d3ea4146c062bd0a99e6b7bf_wk6assignment.pdf
+file: /ol-ocw-studio-app/courses/24-964-topics-in-phonology-fall-2004/3a23fdc4d3ea4146c062bd0a99e6b7bf_wk6assignment.pdf
 file_size: 56494
 file_type: application/pdf
 learning_resource_types:
