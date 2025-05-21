@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Code file.
-file: /ol-ocw-studio-app/courses/24-964-topics-in-phonology-fall-2004/17e4c65def01ece62ef68ce92404835c_readfile3b.pl
+file: /courses/24-964-topics-in-phonology-fall-2004/17e4c65def01ece62ef68ce92404835c_readfile3b.pl
 file_size: 505
 file_type: text/plain
 learning_resource_types: []

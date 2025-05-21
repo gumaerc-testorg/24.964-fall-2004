@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file.
-file: /ol-ocw-studio-app/courses/24-964-topics-in-phonology-fall-2004/a0c4b301329f8b0e350eb489c45b14dd_AlbrightHayes.txt
+file: /courses/24-964-topics-in-phonology-fall-2004/a0c4b301329f8b0e350eb489c45b14dd_AlbrightHayes.txt
 file_size: 521
 file_type: text/plain
 learning_resource_types: []

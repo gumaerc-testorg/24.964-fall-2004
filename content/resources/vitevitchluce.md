@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Code file.
-file: /ol-ocw-studio-app/courses/24-964-topics-in-phonology-fall-2004/912b725f1388141833e2822e3350c09e_VitevitchLuce.pl
+file: /courses/24-964-topics-in-phonology-fall-2004/912b725f1388141833e2822e3350c09e_VitevitchLuce.pl
 file_size: 8163
 file_type: text/plain
 learning_resource_types: []

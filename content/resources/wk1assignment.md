@@ -7,7 +7,7 @@ description: 'The goal of this assignment is to get familiar with some Perl synt
   into phonemic transcription. It should take an input ?le, read it, and perform whatever
   substitutions are necessary to produce a ?rst approximation of a (broad) phonemic
   transcription.'
-file: /ol-ocw-studio-app/courses/24-964-topics-in-phonology-fall-2004/c4a889d99ceb9b3ba77ca0c5298faa58_wk1assignment.pdf
+file: /courses/24-964-topics-in-phonology-fall-2004/c4a889d99ceb9b3ba77ca0c5298faa58_wk1assignment.pdf
 file_size: 108859
 file_type: application/pdf
 learning_resource_types:

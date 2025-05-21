@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file.
-file: /ol-ocw-studio-app/courses/24-964-topics-in-phonology-fall-2004/51ca843bbaf70f77b16a3fc75bb29ed9_Exp1Low.txt
+file: /courses/24-964-topics-in-phonology-fall-2004/51ca843bbaf70f77b16a3fc75bb29ed9_Exp1Low.txt
 file_size: 617
 file_type: text/plain
 learning_resource_types:

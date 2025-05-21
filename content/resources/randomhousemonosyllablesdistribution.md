@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for Study Materials.
-file: /ol-ocw-studio-app/courses/24-964-topics-in-phonology-fall-2004/2450a576df44dfc0a5c9b760a3a6533b_RandomHouseMonosyllablesDistribution.txt
+file: /courses/24-964-topics-in-phonology-fall-2004/2450a576df44dfc0a5c9b760a3a6533b_RandomHouseMonosyllablesDistribution.txt
 file_size: 134
 file_type: text/plain
 learning_resource_types: []
