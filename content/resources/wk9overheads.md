@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Detailed summary of topics covered in lecture.
-file: /ol-ocw-studio-app/courses/24-964-topics-in-phonology-fall-2004/882ba75bc585b828d89d55b1af56a147_wk9overheads.pdf
+file: /courses/24-964-topics-in-phonology-fall-2004/882ba75bc585b828d89d55b1af56a147_wk9overheads.pdf
 file_size: 894952
 file_type: application/pdf
 learning_resource_types:

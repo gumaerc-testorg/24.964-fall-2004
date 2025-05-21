@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file.
-file: /ol-ocw-studio-app/courses/24-964-topics-in-phonology-fall-2004/b25c3c58c5086412380af033c3248924_HayesPseudoKorean.txt
+file: /courses/24-964-topics-in-phonology-fall-2004/b25c3c58c5086412380af033c3248924_HayesPseudoKorean.txt
 file_size: 2582
 file_type: text/plain
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for Study Materials.
-file: /ol-ocw-studio-app/courses/24-964-topics-in-phonology-fall-2004/b506dcc12230cc09975233c7cddfc872_TesarSmolensky6.txt
+file: /courses/24-964-topics-in-phonology-fall-2004/b506dcc12230cc09975233c7cddfc872_TesarSmolensky6.txt
 file_size: 158
 file_type: text/plain
 learning_resource_types: []
