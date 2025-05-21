@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for Study Materials.
-file: /ol-ocw-studio-app/courses/24-964-topics-in-phonology-fall-2004/bbf87634fed4dcdc7afa563aded2caea_SaShiAllophonic2.txt
+file: /courses/24-964-topics-in-phonology-fall-2004/bbf87634fed4dcdc7afa563aded2caea_SaShiAllophonic2.txt
 file_size: 118
 file_type: text/plain
 learning_resource_types: []

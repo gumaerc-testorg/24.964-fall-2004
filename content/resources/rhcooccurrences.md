@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for Study Materials.
-file: /ol-ocw-studio-app/courses/24-964-topics-in-phonology-fall-2004/bd4fd676e067c5128dae9506eff91002_RHCooccurrences.txt
+file: /courses/24-964-topics-in-phonology-fall-2004/bd4fd676e067c5128dae9506eff91002_RHCooccurrences.txt
 file_size: 3345
 file_type: text/plain
 learning_resource_types: []
