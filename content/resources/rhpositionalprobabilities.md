@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for Study Materials.
-file: /courses/24-964-topics-in-phonology-fall-2004/8577dd97a897545b0734c3b4987c3660_RHPositionalProbabilities.txt
+file: /ol-ocw-studio-app/courses/24-964-topics-in-phonology-fall-2004/8577dd97a897545b0734c3b4987c3660_RHPositionalProbabilities.txt
 file_size: 4396
 file_type: text/plain
 learning_resource_types: []

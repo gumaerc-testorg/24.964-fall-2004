@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/24-964-topics-in-phonology-fall-2004/1e629a88e7a0045dd0b46e3614125c3c_perlscripts7.zip
+file: /ol-ocw-studio-app/courses/24-964-topics-in-phonology-fall-2004/1e629a88e7a0045dd0b46e3614125c3c_perlscripts7.zip
 file_size: 14909
 file_type: application/zip
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file.
-file: /courses/24-964-topics-in-phonology-fall-2004/0cd5a4d6b65aaeb9e3ce6bac89c39288_little_corpus.txt
+file: /ol-ocw-studio-app/courses/24-964-topics-in-phonology-fall-2004/0cd5a4d6b65aaeb9e3ce6bac89c39288_little_corpus.txt
 file_size: 14378
 file_type: text/plain
 learning_resource_types: []
