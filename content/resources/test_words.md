@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for Study Materials.
-file: /courses/24-964-topics-in-phonology-fall-2004/a53e73ccd7089b19826e898f9783c60c_test_words.txt
+file: /ol-ocw-studio-app/courses/24-964-topics-in-phonology-fall-2004/a53e73ccd7089b19826e898f9783c60c_test_words.txt
 file_size: 85
 file_type: text/plain
 learning_resource_types: []

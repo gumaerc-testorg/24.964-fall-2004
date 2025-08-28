@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file.
-file: /courses/24-964-topics-in-phonology-fall-2004/0023566abce7573ca2f80ed388ec6634_RCDReadme.txt
+file: /ol-ocw-studio-app/courses/24-964-topics-in-phonology-fall-2004/0023566abce7573ca2f80ed388ec6634_RCDReadme.txt
 file_size: 4009
 file_type: text/plain
 learning_resource_types: []

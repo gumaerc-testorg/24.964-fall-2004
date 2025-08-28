@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for Study Materials.
-file: /courses/24-964-topics-in-phonology-fall-2004/90cee6b2e0b20c1d4d59b6f55244b96b_treiman_al.txt
+file: /ol-ocw-studio-app/courses/24-964-topics-in-phonology-fall-2004/90cee6b2e0b20c1d4d59b6f55244b96b_treiman_al.txt
 file_size: 198
 file_type: text/plain
 learning_resource_types: []
