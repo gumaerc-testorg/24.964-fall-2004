@@ -10,7 +10,7 @@ description: 'The Jusczyk, Luce, and Charles ?Luce study employed sets of monosy
   contains a list of English words. The task is to write a program that reads in this
   file, computes the probabilities of their items, by the criteria used in that study.(That
   is, by the "positional" probabilities).'
-file: /courses/24-964-topics-in-phonology-fall-2004/71662af72a418a959ff6d11d1dd07802_wk3assignment.pdf
+file: /ol-ocw-studio-app/courses/24-964-topics-in-phonology-fall-2004/71662af72a418a959ff6d11d1dd07802_wk3assignment.pdf
 file_size: 59429
 file_type: application/pdf
 learning_resource_types:

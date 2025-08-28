@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource includes: Learning Phonology, Supervised Learning, Error
   driven learning and Different types of Error.'
-file: /courses/24-964-topics-in-phonology-fall-2004/da8b334fc245eb4f2b980e513a2cb98d_wk2handout.pdf
+file: /ol-ocw-studio-app/courses/24-964-topics-in-phonology-fall-2004/da8b334fc245eb4f2b980e513a2cb98d_wk2handout.pdf
 file_size: 479198
 file_type: application/pdf
 learning_resource_types: []

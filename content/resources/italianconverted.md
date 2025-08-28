@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file.
-file: /courses/24-964-topics-in-phonology-fall-2004/32cd33164a40a10567a9b50c9752df75_ItalianConverted.txt
+file: /ol-ocw-studio-app/courses/24-964-topics-in-phonology-fall-2004/32cd33164a40a10567a9b50c9752df75_ItalianConverted.txt
 file_size: 806
 file_type: text/plain
 learning_resource_types: []
